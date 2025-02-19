@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7cd04c4-17d9-47f9-a779-f13f992440fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Accounts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Admin/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Attendance/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Faculty/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Marks/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Pipfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Students/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/Subjects/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/Admin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/DataDisplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/DataEdit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/FacultyDash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/Footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/Header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/StudentDash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/css/errorpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/Error.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/RNSIT logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/RNSITCSE logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/facultyIcon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/logout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/rnsit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/rnsit.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/images/studentIcon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/js/Admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/js/FacultyDash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/js/Logout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/static/js/StudentDash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/student_management_system/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/student_management_system/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/student_management_system/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/student_management_system/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/student_management_system/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/Admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/DataDisplay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/DataEdit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/FacultyDash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/StudentDash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/errorpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_student_monitoring_system/templates/header.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2tD9v1BZKkKjUrT4WOAR9EnfOo6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shara/OneDrive/Desktop/spring-security-6"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7cd04c4-17d9-47f9-a779-f13f992440fd" name="Changes" comment="" />
+      <created>1739876004665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739876004665</updated>
+    </task>
+    <servers />
+  </component>
+</project>
